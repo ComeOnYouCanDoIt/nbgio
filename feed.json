@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "testapp",
+    "description": "",
+    "home_page_url": "https://comeonyoucandoit.github.io/nbgio",
+    "feed_url": "https://comeonyoucandoit.github.io/nbgio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "UA"
+    },
+    "items": [
+    ]
+}

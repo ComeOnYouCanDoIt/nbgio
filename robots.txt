@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://comeonyoucandoit.github.io/nbgio/sitemap.xml
